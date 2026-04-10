@@ -1,0 +1,13 @@
+material haris/ImageMaterial
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture code.png
+      }
+    }
+  }
+}
